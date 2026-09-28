@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vida Sana - Nutrición y bienestar</title>
+  <link rel="stylesheet" href="css/componente.css">
+  <link rel="stylesheet" href="css/pagina.css">
+</head>
+<body>
+  
+
+  <section class="encabezado">
+    <h1>Come bien, vive mejor</h1>
+    <p>Carrucel de</p>
+  </section>
+
+  <main class="contenedor">
+    <section id="recetas" class="seccion">
+      <h2>Comidas saludables</h2>
+      <p class="subtitulo">Platillos sanos para tu semana</p>
+      <div id="galeria1"></div>
+    </section>
+
+    <section id="habitos" class="seccion">
+      <h2>Ejemplo de carrucel con movimiento de 3 segundos</h2>
+      <p class="subtitulo">Imagenes y tiempo de cambio completamente ajustable</p>
+      <div id="galeria2"></div>
+    </section>
+  </main>
+
+  
+
+  <script type="module">
+    import { crearCarrusel } from "./js/componente.js"
+
+    crearCarrusel(document.getElementById("galeria1"), [
+      { src: "https://i.pinimg.com/1200x/7d/50/6f/7d506f48a584303c9b1f1c8ab6922c6d.jpg", alt: "comida 1" },
+      { src: "img/img1.jpg", alt: "comida 2" },
+      { src: "img/img4.jpg", alt: "comida 3" }
+    ])
+
+    crearCarrusel(document.getElementById("galeria2"), [
+      { src: "https://i.pinimg.com/736x/b2/61/af/b261afaf3cca774d5d98219865bad4c5.jpg", alt: "hotcakes" },
+      { src: "img/img2.jpg", alt: "random1" },
+      { src: "img/img3.jpg", alt: "random2" }
+    ], { autoplay: true, intervalo: 3000 })
+  </script>
+</body>
+</html>
