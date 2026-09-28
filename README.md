@@ -3,7 +3,9 @@
 
 
 ¿necesitas que la visualización del usuario con tu pagina tenga componentes dinámicos para mostrar información sin disminuir el interés?
+
 ¿Tu cliente te pidió mostrar imágenes que cambien de forma automática cada cierto tiempo?
+
 ¿Quieres experimentar con un componente básico de tipo carrusel para estudiarlo y/o implementarlo?
 
 ¡ESTO ES PARA TI!
