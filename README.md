@@ -2,23 +2,27 @@
 <img width="1999" height="1548" alt="Copia de TALLER DE INVESTIGACIÓN 1" src="https://github.com/user-attachments/assets/00eef7f2-033d-45ec-a17f-fc80487d3874" />
 
 
-¿necesitas que la visualización del usuario con tu pagina tenga componentes dinámicos para mostrar información sin disminuir el interés?
+**¿necesitas que la visualización del usuario con tu pagina tenga componentes dinámicos para mostrar información sin disminuir el interés?**
 
-¿Tu cliente te pidió mostrar imágenes que cambien de forma automática cada cierto tiempo?
+**¿Tu cliente te pidió mostrar imágenes que cambien de forma automática cada cierto tiempo?**
 
-¿Quieres experimentar con un componente básico de tipo carrusel para estudiarlo y/o implementarlo?
+**¿Quieres experimentar con un componente básico de tipo carrusel para estudiarlo y/o implementarlo?**
 
-¡ESTO ES PARA TI!
+**¡ESTO ES PARA TI!**
+
 Este componente carrusel es una herramienta que te permite mostrar información en forma interactiva, el usuario puede leer una imagen dentro del carrusel y recorrer
 a la siguiente, pero no solo eso, este componente incluye 2 funciones de mucha utilidad, primero te permite usar imagenes
 que tengas de forma local o mediante URL´s SIN MODIFICAR TU HTML, y segundo TU DECIDES, tienes las opciones de decidir si quieres que el usuario
 sea el que recorra cada imagen, o de lo contrario puedes ponerle un tiempo determinado para se haga la transcición.
 
-ES MUY BÁSICO? Claro pero solo lo suficiente:
-  -lo suficiente para que sea entendible, usable y hasta modificable a tus requerimientos personales
-  -lo suficiente para que solo lo implementes sin modificar tu HTML (DOM), sin asignarle nombres específicos a tus imágnes o componentes
-  -lo suficiente para que se entienda su función, sin detalles innecesarios que compliquen el proceso
+**ES MUY BÁSICO?** Claro pero solo lo suficiente:
 
+  -lo suficiente para que sea entendible, usable y hasta modificable a tus requerimientos personales
+  
+  -lo suficiente para que solo lo implementes sin modificar tu HTML (DOM), sin asignarle nombres específicos a tus imágnes o componentes
+  
+  -lo suficiente para que se entienda su función, sin detalles innecesarios que compliquen el proceso
+  
   NO ES PARA PROFESIONALES PERO SIN DUDA ALGUNA ES UN BUEN PUNTO DE PARTIDA
 
 
